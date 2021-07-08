@@ -1,0 +1,12 @@
+.center{
+    text-align: center;
+    color: rgb(20, 190, 220);
+}
+
+p.center{
+    text-align: center;
+    color: rgb(112, 216, 117);
+}
+p.large {
+    font-size: 250%;
+}
